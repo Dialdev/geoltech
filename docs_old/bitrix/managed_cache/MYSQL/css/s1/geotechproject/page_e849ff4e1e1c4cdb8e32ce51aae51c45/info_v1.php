@@ -1,0 +1,1 @@
+<? $filesInfo = array("/local/templates/.default/components/bitrix/main.map/sitemap/style.css" => "1564749923600",); ?>

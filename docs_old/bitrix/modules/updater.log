@@ -1,0 +1,6 @@
+2022-09-05 17:25:50 -  - exec CUpdateClient::GetUpdatesList
+2022-09-05 17:25:50 -  - exec CUpdateClient::CollectRequestData
+2022-09-05 17:25:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.5.200&VERSION=18.1.5&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.geoltechproject.ru&CHHB=www.geoltechproject.ru&CSAB=127.0.0.1&SUID=ce7363c9125e89af321ed961d6e121b9&CANGZIP=Y&CLIENT_PHPVER=7.4.29&stable=Y&NGINX=Y&SMD=N&rerere=Y&bitm_main=18.1.5&bitm_b24connector=18.0.0&bitm_bitrixcloud=18.5.0&bitm_clouds=18.0.0&bitm_compression=16.0.0&bitm_fileman=18.0.4&bitm_highloadblock=18.5.0&bitm_iblock=18.5.4&bitm_landing=18.5.9&bitm_messageservice=18.0.0&bitm_perfmon=18.5.0&bitm_rest=18.5.2&bitm_search=18.5.0&bitm_seo=18.5.0&bitm_socialservices=18.0.3&bitm_translate=16.5.0&bitm_ui=18.0.3&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2022-09-05 17:25:50 -  - exec CUpdateClient::GetHTTPPage
+2022-09-05 17:25:50 -  - TIME GetUpdatesList(request) 0.223 sec
+2022-09-05 17:25:50 -  - exec CUpdateClient::ParseServerData
